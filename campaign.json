@@ -1,0 +1,11 @@
+{
+  "campaign_id": "camp_2026_xyz",
+  "advertiser_id": "adv_user_101",
+  "ad_type": "banner",
+  "ad_title": "Dream Cricket Academy",
+  "image_url": "https://yourserver.com/uploads/banner_ad.png",
+  "target_url": "https://play.google.com/store/apps/details?id=com.example.cricket",
+  "cpc_rate": 2.0,
+  "budget_limit": 500.0,
+  "status": "active"
+}
